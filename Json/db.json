@@ -1,0 +1,246 @@
+{
+  "dummyAuth": [
+    {
+      "email": "user1@example.com",
+      "password": "password123",
+      "id": "1bbc"
+    },
+    {
+      "email": "user2@example.com",
+      "password": "securePass456",
+      "id": "b2fc"
+    },
+    {
+      "email": "user3@example.com",
+      "password": "pass789Strong",
+      "id": "7aaf"
+    },
+    {
+      "email": "user4@example.com",
+      "password": "examplePass012",
+      "id": "7c1f"
+    },
+    {
+      "email": "user5@example.com",
+      "password": "passwordABC!",
+      "id": "640d"
+    },
+    {
+      "id": "485e",
+      "email": "user1@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "000",
+      "email": "gpalak700@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "tableData": [
+    {
+      "id": "12",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Replied"
+    },
+    {
+      "id": "17",
+      "name": "Jane Smith",
+      "date": "12 june 2024",
+      "mobileNo": "9691205285",
+      "emailId": "janesmith@example.com",
+      "company": "XYZ Inc",
+      "message": "Please send the quote as soon as possible.",
+      "status": "Flagged"
+    },
+    {
+      "id": "18",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Rejected"
+    },
+    {
+      "id": "19",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Read"
+    },
+    {
+      "id": "20",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Flagged"
+    },
+    {
+      "id": "21",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Flagged"
+    },
+    {
+      "id": "22",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Unread"
+    },
+    {
+      "id": "23",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Accepted"
+    },
+    {
+      "id": "24",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Replied"
+    },
+    {
+      "id": "25",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Replied"
+    },
+    {
+      "id": "26",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Unread"
+    },
+    {
+      "id": "27",
+      "name": "Mr chandra bhan Gupta",
+      "date": "12 june 2024",
+      "mobileNo": "+1-555-1234",
+      "emailId": "johndoe@example.com",
+      "company": "ABC Corp",
+      "message": "Looking forward to your response.",
+      "status": "Accepted"
+    }
+  ],
+  "services": [
+    {
+      "serviceName": "EcoClean Co.",
+      "tagline": "Eco-Friendly Cleaning for a Healthier Tomorrow hey",
+      "content": "EcoClean Co. specializes in environmentally safe cleaning services for homes and offices. Our non-toxic products ensure a sparkling clean space without harming the planet. We offer flexible scheduling, affordable rates, and a satisfaction guarantee, so you can enjoy a cleaner, greener environment.",
+      "subServices": [
+        {
+          "id": "11",
+          "title": "hey",
+          "content": "hii"
+        },
+        {
+          "id": "12",
+          "title": "hey",
+          "content": "hey"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "serviceName": "HealthConnect",
+      "tagline": "Connecting You to Better Health",
+      "content": "HealthConnect bridges the gap between healthcare providers and patients with our user-friendly telemedicine platform. Receive medical consultations, track health data, and access personalized care plans all from the comfort of your home. We prioritize your health and privacy, ensuring you receive the best care possible.",
+      "subServices": [
+        {
+          "id": "13",
+          "title": "Telemedicine Consultations",
+          "content": "Consult with healthcare professionals online without leaving your home."
+        },
+        {
+          "id": "14",
+          "title": "Health Data Tracking",
+          "content": "Monitor your health metrics and receive personalized care plans."
+        },
+        {
+          "id": "15",
+          "title": "Prescription Management",
+          "content": "Get your prescriptions delivered directly to your door through our platform."
+        },
+        {
+          "id": "16",
+          "title": "New Services",
+          "content": "New Services"
+        },
+        {
+          "id": "17",
+          "title": "New Services",
+          "content": "Consult with healthcare professionals online without leaving your home."
+        },
+        {
+          "id": "18",
+          "title": "New Services",
+          "content": "Consult with healthcare professionals online without leaving your home."
+        }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "date": "2024-09-27",
+      "time": "14:35:00",
+      "id": "2363"
+    },
+    {
+      "date": "2024-09-26",
+      "time": "09:15:30",
+      "id": "952c"
+    },
+    {
+      "date": "2024-09-25",
+      "time": "18:47:20",
+      "id": "79a6"
+    },
+    {
+      "date": "2024-09-24",
+      "time": "12:00:00",
+      "id": "aa4e"
+    },
+    {
+      "date": "2024-09-23",
+      "time": "21:22:10",
+      "id": "b12d"
+    }
+  ]
+}
